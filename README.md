@@ -1,4 +1,4 @@
-# stock_picker-rb
+# Stock Picker
 
 ## Description
 
